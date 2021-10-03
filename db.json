@@ -1,0 +1,50 @@
+{
+"fajas": [
+{
+            "id": 0,
+            "title": "GUÍA DE TALLAS LÁTEX",
+            "columnTitle": [
+                "TALLA",
+                "CONTORNO (CM)",
+                "CINTURA (CM)",
+                "CADERA (CM)"
+            ],
+            "description": [
+                {
+                    "content": [
+                        "S",
+                        "80 - 86",
+                        "72 - 80",
+                        "86 - 96"
+                    ]
+                },
+                {
+                    "content": [
+                        "M",
+                        "86 - 92",
+                        "80 - 86",
+                        "96 - 102"
+                    ]
+                },
+                {
+                    "content": [
+                        "L",
+                        "92 - 98",
+                        "86 - 92",
+                        "102 - 108"
+                    ]
+                },
+                {
+                    "content": [
+                        "XL",
+                        "98 - 104",
+                        "92 - 100",
+                        "108 - 114"
+                    ]
+                }
+            ]
+        },
+
+]
+
+}
